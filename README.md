@@ -22,7 +22,6 @@ The repository includes both documentation files and submission evidence such as
 - [`README.md`](README.md) - Portfolio overview and file index  
 
 ### Report
-- [`report/project-report.md`](report/project-report.md) - Main written project report  
 - [`report/Project_Report.pdf`](report/Project_Report.pdf) - Final exported report  
 
 ### Task 1 – Presentation
@@ -69,7 +68,6 @@ digital-literacy-project/
 ├── README.md                    # Project overview
 │
 ├── report/                      # Final report files
-│   ├── project-report.md        # Main report (Markdown)
 │   └── Project_Report.pdf       # Final submission PDF
 │
 ├── task-1-presentation/         # Infographic task
