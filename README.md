@@ -43,10 +43,14 @@ The repository includes both documentation files and submission evidence such as
 - [`task-3-platforms/hackerrank-challenge.png`](task-3-platforms/hackerrank-challenge.png) - HackerRank evidence  
 
 ### Task 4 – Email Etiquette
-- [`task-4-email-etiquette/task4.md`](task-4-email-etiquette/task4.md) - Task 4 documentation  
-- [`task-4-email-etiquette/email-etiquette.md`](task-4-email-etiquette/email-etiquette.md) - Professional email drafts  
-- [`task-4-email-etiquette/social-media-checklist.md`](task-4-email-etiquette/social-media-checklist.md) - Social media checklist  
+**Primary Files**
+- [`task-4-email-etiquette/task4.md`](task-4-email-etiquette/task4.md) – Task documentation  
+- [`task-4-email-etiquette/email-etiquette.md`](task-4-email-etiquette/email-etiquette.md) – Professional email drafts  
+- [`task-4-email-etiquette/social-media-checklist.md`](task-4-email-etiquette/social-media-checklist.md) – Social media checklist  
+- [`task-4-email-etiquette/email1.pdf`](task-4-email-etiquette/email1.pdf) – Email sample 1  
+- [`task-4-email-etiquette/email2.pdf`](task-4-email-etiquette/email2.pdf) – Email sample 2
 
+  
 ### Task 5 – Cybercrime
 - [`task-5-cybercrime/task5.md`](task-5-cybercrime/task5.md) - Task 5 documentation  
 - [`task-5-cybercrime/casestudy.md`](task-5-cybercrime/casestudy.md) - Cybercrime case study  
@@ -88,6 +92,8 @@ digital-literacy-project/
 ├── task-4-email-etiquette/      # Professional communication
 │   ├── task4.md
 │   ├── email-etiquette.md
+│   ├── email1.pdf
+│   ├── email2.pdf
 │   └── social-media-checklist.md
 │
 └── task-5-cybercrime/           # Cyber awareness study
@@ -131,9 +137,12 @@ Task 3 combines coding practice on HackerRank with collaboration through a Digit
 Task 4 covers professional email writing and social media etiquette.
 
 **Primary Files**
+**Primary Files**
 - [`task-4-email-etiquette/task4.md`](task-4-email-etiquette/task4.md) – Task documentation  
-- [`task-4-email-etiquette/email-etiquette.md`](task-4-email-etiquette/email-etiquette.md) – Email drafts  
+- [`task-4-email-etiquette/email-etiquette.md`](task-4-email-etiquette/email-etiquette.md) – Professional email drafts  
 - [`task-4-email-etiquette/social-media-checklist.md`](task-4-email-etiquette/social-media-checklist.md) – Social media checklist  
+- [`task-4-email-etiquette/email1.pdf`](task-4-email-etiquette/email1.pdf) – Email sample 1  
+- [`task-4-email-etiquette/email2.pdf`](task-4-email-etiquette/email2.pdf) – Email sample 2  
 
 
 ### Task 5: Cybercrime Awareness
