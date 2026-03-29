@@ -8,7 +8,7 @@
 | Registration Number | 25MIM10074 |
 | Branch | CSE (Integrated M.Tech, AI) |
 | Year | First Year |
-| Course Code | CSE0001 |
+| Course Code | CSD0001 |
 | Course Title | Digital Literacy |
 | Institution | VIT Bhopal University |
 
